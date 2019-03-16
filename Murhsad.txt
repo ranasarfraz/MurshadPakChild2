@@ -56,7 +56,7 @@
       "StaticAdPeriority": "Admob",
       "isBannerAdPeriorityMatters": false,
       "BannerAdPeriority": "Admob",
-      "UnityAdIds": "1518267508",
+      "UnityAdIds": "37408833315278",
       "AdmobBannerAdIds": "ca-app-pub-7880512199885088/3940249798964433",
       "AdmobInsterstitialAdIds": "ca-app-pub-7880512199885088/3940255066768832"
     },
