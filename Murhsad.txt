@@ -41,6 +41,16 @@
       "AdmobInsterstitialAdIds": "ca-app-pub-10119762544338416/5059876224581842"
     },
     {
+      "BundleId": "com.extreme.simulator.boat.fishing.simulator.salmon.wild.fish.hunting",
+      "isStaticAdPeriorityMatters": false,
+      "StaticAdPeriority": "Admob",
+      "isBannerAdPeriorityMatters": false,
+      "BannerAdPeriority": "Admob",
+      "UnityAdIds": "37408833315278",
+      "AdmobBannerAdIds": "ca-app-pub-10119762544338416/5059871810065827",
+      "AdmobInsterstitialAdIds": "ca-app-pub-10119762544338416/5059877258188842"
+    },
+    {
       "BundleId": "com.gladiators.testIds",
       "isStaticAdPeriorityMatters": false,
       "StaticAdPeriority": "Admob",
