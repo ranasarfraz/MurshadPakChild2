@@ -51,7 +51,7 @@
       "AdmobInsterstitialAdIds": "ca-app-pub-10119762544338416/5059877258188842"
     },
     {
-      "BundleId": "com.ultimate.clash.action.robot.helicopter.transformer.battle.war.strike2019",
+      "BundleId": "com.ultimate.clash.action.robot.transform.helicopter.battle.war.air.strike2019",
       "isStaticAdPeriorityMatters": false,
       "StaticAdPeriority": "Admob",
       "isBannerAdPeriorityMatters": false,
