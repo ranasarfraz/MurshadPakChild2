@@ -61,6 +61,16 @@
       "AdmobInsterstitialAdIds": "ca-app-pub-4751558687015076/2375769944859621"
     },
     {
+      "BundleId": "com.infinity.fighting.arena.hero.shadow.turtle.warrior.vs.real.mafia.city.gangsters",
+      "isStaticAdPeriorityMatters": false,
+      "StaticAdPeriority": "Admob",
+      "isBannerAdPeriorityMatters": false,
+      "BannerAdPeriority": "Admob",
+      "UnityAdIds": "37601964646802",
+      "AdmobBannerAdIds": "ca-app-pub-9099520579559834/4549754255157367",
+      "AdmobInsterstitialAdIds": "ca-app-pub-9099520579559834/4549750842047034"
+    },
+    {
       "BundleId": "com.gladiators.testIds",
       "isStaticAdPeriorityMatters": false,
       "StaticAdPeriority": "Admob",
