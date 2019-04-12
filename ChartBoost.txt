@@ -1,7 +1,7 @@
 
 {
     "FirstGameBundleID":"com.extreme.productions.highwayway.car.transform.stunts2019",
-    "Gameurl1": "https://play.google.com/store/apps/details?id=com.ultimate.clash.action.robot.transform.helicopter.battle.war.air.strike2019",
+    "Gameurl1": "https://play.google.com/store/apps/details?id=com.extreme.simulator.boat.fishing.simulator.salmon.wild.fish.hunting",
     "Gameurl2": "https://play.google.com/store/apps/details?id=com.infinity.avenger.hero.superhero.fighting.game.immortal.shadow.war2k19"
 }
 
