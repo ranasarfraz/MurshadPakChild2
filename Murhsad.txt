@@ -77,7 +77,7 @@
       "isBannerAdPeriorityMatters": false,
       "BannerAdPeriority": "Admob",
       "isRewardedAdPeriorityMatters" : false,
-      "RewardedAdPeriority" : "Unity"
+      "RewardedAdPeriority" : "Unity",
       "UnityAdIds": "1518267508",
       "AdmobBannerAdIds": "ca-app-pub-7880512199885088/3940249798964433",
       "AdmobInsterstitialAdIds": "ca-app-pub-7880512199885088/3940255066768832",
