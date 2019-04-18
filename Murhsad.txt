@@ -76,9 +76,13 @@
       "StaticAdPeriority": "Admob",
       "isBannerAdPeriorityMatters": false,
       "BannerAdPeriority": "Admob",
+      "isRewardedAdPeriorityMatters" : false,
+      "RewardedAdPeriority" : "Unity"
       "UnityAdIds": "1518267508",
       "AdmobBannerAdIds": "ca-app-pub-7880512199885088/3940249798964433",
-      "AdmobInsterstitialAdIds": "ca-app-pub-7880512199885088/3940255066768832"
+      "AdmobInsterstitialAdIds": "ca-app-pub-7880512199885088/3940255066768832",
+      "AdmobRewardedAdIds": "ca-app-pub-7880512199885088/3940250875587627",
+      "AdmobAppId": "ca-app-pub-7880512199885088~3940255066768832"
     },
     {
       "BundleId": "com.gladiators.testIds",
