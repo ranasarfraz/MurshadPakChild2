@@ -71,7 +71,7 @@
       "AdmobInsterstitialAdIds": "ca-app-pub-16871693818128692/8435842607242166"
     },
     {
-      "BundleId": "com.extreme.simulator.monster.truck.crash.derby.fearless.stunts2019",
+      "BundleId": "com.extreme.simulator.monster.truck.crash.derby.fearless.stunts20192",
       "isStaticAdPeriorityMatters": false,
       "StaticAdPeriority": "Admob",
       "isBannerAdPeriorityMatters": false,
@@ -85,7 +85,7 @@
       "AdmobAppId": "ca-app-pub-7880512199885088~3940255066768832"
     },
     {
-      "BundleId": "com.extreme.simulator.monster.truck.crash.derby.fearless.stunts20191",
+      "BundleId": "com.extreme.simulator.monster.truck.crash.derby.fearless.stunts2019",
       "isStaticAdPeriorityMatters": false,
       "StaticAdPeriority": "Admob",
       "isBannerAdPeriorityMatters": false,
@@ -95,8 +95,8 @@
       "UnityAdIds": "37016158218752",
       "AdmobBannerAdIds": "ca-app-pub-10119762544338416/5059875638888405",
       "AdmobInsterstitialAdIds": "ca-app-pub-10119762544338416/5059872984804903",
-      "AdmobRewardedAdIds": "ca-app-pub-7880512199885088/3940250875587627",
-      "AdmobAppId": "ca-app-pub-7880512199885088~3940255066768832"
+      "AdmobRewardedAdIds": "ca-app-pub-10119762544338416/5059878006424654",
+      "AdmobAppId": "ca-app-pub-10119762544338416~5059878073480051"
     },
     {
       "BundleId": "com.gladiators.testIds",
