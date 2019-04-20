@@ -2,9 +2,9 @@
   "AdIds": [
     {
       "BundleId": "com.infinity.avenger.hero.superhero.fighting.game.immortal.shadow.war2k19",
-      "isStaticAdPeriorityMatters": false,
+      "isStaticAdPeriorityMatters": true,
       "StaticAdPeriority": "Unity",
-      "isBannerAdPeriorityMatters": false,
+      "isBannerAdPeriorityMatters": true,
       "BannerAdPeriority": "Unity",
       "UnityAdIds": "37306511618727",
       "AdmobBannerAdIds": "ca-app-pub-16871693818128692/8435842077114344",
@@ -22,9 +22,9 @@
     },
     {
       "BundleId": "com.ultimate.clash.action.bottle.shooter.expert3d.shooting.game",
-      "isStaticAdPeriorityMatters": false,
+      "isStaticAdPeriorityMatters": true,
       "StaticAdPeriority": "Admob",
-      "isBannerAdPeriorityMatters": false,
+      "isBannerAdPeriorityMatters": true,
       "BannerAdPeriority": "Admob",
       "UnityAdIds": "37405771405910",
       "AdmobBannerAdIds": "ca-app-pub-4751558687015076/2375778316778431",
@@ -62,9 +62,9 @@
     },
     {
       "BundleId": "com.infinity.fighting.arena.hero.shadow.turtle.warrior.vs.real.mafia.city.gangsters",
-      "isStaticAdPeriorityMatters": false,
+      "isStaticAdPeriorityMatters": true,
       "StaticAdPeriority": "Unity",
-      "isBannerAdPeriorityMatters": false,
+      "isBannerAdPeriorityMatters": true,
       "BannerAdPeriority": "Unity",
       "UnityAdIds": "37601964646802",
       "AdmobBannerAdIds": "ca-app-pub-16871693818128692/8435845166312108",
