@@ -31,7 +31,7 @@
       "AdmobInsterstitialAdIds": "ca-app-pub-4751558687015076/2375776456901851"
     },
     {
-      "BundleId": "com.extreme.productions.gwadar.ship.simulator2019.boat.gamesold",
+      "BundleId": "com.extreme.productions.gwadar.ship.simulator2019.boat.games",
       "isStaticAdPeriorityMatters": false,
       "StaticAdPeriority": "Admob",
       "isBannerAdPeriorityMatters": false,
@@ -39,16 +39,6 @@
       "UnityAdIds": "37400701021710",
       "AdmobBannerAdIds": "ca-app-pub-10119762544338416/5059873383630234",
       "AdmobInsterstitialAdIds": "ca-app-pub-10119762544338416/5059876224581842"
-    },
-    {
-      "BundleId": "com.extreme.productions.gwadar.ship.simulator2019.boat.games",
-      "isStaticAdPeriorityMatters": false,
-      "StaticAdPeriority": "Admob",
-      "isBannerAdPeriorityMatters": false,
-      "BannerAdPeriority": "Admob",
-      "UnityAdIds": "37400701021710",
-      "AdmobBannerAdIds": "ca-app-pub-12448707138143948/6224349153380364",
-      "AdmobInsterstitialAdIds": "ca-app-pub-12448707138143948/6224350721558999"
     },
     {
       "BundleId": "com.extreme.simulator.boat.fishing.simulator.salmon.wild.fish.hunting",
