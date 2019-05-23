@@ -81,8 +81,8 @@
       "UnityAdIds": "37016158218752",
       "AdmobBannerAdIds": "ca-app-pub-4751558687015076/2375772629487507",
       "AdmobInsterstitialAdIds": "ca-app-pub-4751558687015076/2375774653015613",
-      "AdmobRewardedAdIds": "ca-app-pub-7880512199885088/3940250875587627",
-      "AdmobAppId": "ca-app-pub-7880512199885088~3940255066768832"
+      "AdmobRewardedAdIds": "ca-app-pub-4751558687015076/2375772761349442",
+      "AdmobAppId": "ca-app-pub-4751558687015076~2375777290130701"
     },
     {
       "BundleId": "com.extreme.simulator.monster.truck.crash.derby.fearless.stunts20192",
