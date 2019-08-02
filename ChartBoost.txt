@@ -1,7 +1,7 @@
 
 {
     "FirstGameBundleID":"com.extreme.simulator.boat.fishing.simulator.salmon.wild.fish.hunting",
-    "Gameurl1": "https://play.google.com/store/apps/details?id=com.extreme.simulator.boat.fishing.simulator.salmon.wild.fish.hunting",
-    "Gameurl2": "https://play.google.com/store/apps/details?id=com.extreme.productions.highwayway.car.transform.stunts2019"
+    "Gameurl1": "https://play.google.com/store/apps/details?id=com.extreme.simulator.fury.monster.jeep.parking.truck.driving.stunts2019",
+    "Gameurl2": "https://play.google.com/store/apps/details?id=com.extreme.simulator.flying.car.transform.shooting.car.flying.robot.battle"
 }
 
