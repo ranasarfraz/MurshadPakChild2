@@ -1,7 +1,6 @@
 {
   	"GameName1": "Monster Truck Destruction : Mad Truck Driving 2020",
-	"GameDesc1": "NEW FREE MONSTER TRUCK RACING GAME IS FINALLY AVAILABLE ON GOOGLE PLAY!
-YOU CAN DRIVE RACING Xtreme MONSTER TRUCKS AND LAUNCH THEM OVER HUGE JUMPS IN EXTREME RACES WITH OFFROAD FUN!",
+	"GameDesc1": "NEW FREE MONSTER TRUCK RACING GAME IS FINALLY AVAILABLE ON GOOGLE PLAY! YOU CAN DRIVE RACING Xtreme MONSTER TRUCKS AND LAUNCH THEM OVER HUGE JUMPS IN EXTREME RACES WITH OFFROAD FUN!",
 	"GameName2": "Flying Car Transform Shooting : Car Flying Games",
 	"GameDesc2": "Burn your tires and gear up your wings like a pilot of flight for offline flying car transform driving in city sky Extreme Flying Robot Car Shooting game with a legendary style.If you have a passion to become a captain of flying car transformation robot game then why you waste your time man! Speed up your future pro flying robot car into airplane and fly height in sky in futuristic city.Be the best in Real Flying Car Driving 2019 and challenge your opponents to execute his best top roof stunts with extreme flying cars.Entertain yourself with the adventure of incredible monster car robot transformation and take revenge from your enemies in flying mode of pro flying car simulator 2019",
 	"GameName3": "Gwadar Ship Simulator 2019 : Boat Games",
