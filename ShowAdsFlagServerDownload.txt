@@ -6,7 +6,7 @@
     },
     {
       "BundleId": "com.extreme.productions.highwayway.car.transform.stunts2019",
-      "ShowAdsFlag": true 
+      "ShowAdsFlag": false 
     }    
   ]
 }
