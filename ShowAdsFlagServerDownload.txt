@@ -5,8 +5,8 @@
       "ShowAdsFlag": true
     },
     {
-      "BundleId": "com.extreme.productions.highwayway.car.transform.stunts2019",
-      "ShowAdsFlag": false 
+      "BundleId": "com.extreme.simulator.demolition.derby.monster.bus.destruction.battle.arena.crash.stunts2020",
+      "ShowAdsFlag": true 
     }    
   ]
 }
