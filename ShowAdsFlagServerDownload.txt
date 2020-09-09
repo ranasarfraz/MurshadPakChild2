@@ -2,15 +2,18 @@
   "AdIds": [
     {
       "BundleId": "com.extreme.simulator.monster.truck.jam.derby.destruction.mad.truck.driving.monster.legends",
-      "ShowAdsFlag": true
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true
     },
     {
       "BundleId": "com.extreme.simulator.demolition.derby.monster.bus.destruction.battle.arena.crash.stunts2020",
-      "ShowAdsFlag": true 
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true
     },
     {
       "BundleId": "com.extreme.simulator.farming.simulator20.farmer.sim.modern.drone.heavy.tractor.farming.games2020",
-      "ShowAdsFlag": true 
+      "ShowAdsFlag": true ,
+      "ShowCustomNativeAdsFlag": true
     }       
   ]
 }
