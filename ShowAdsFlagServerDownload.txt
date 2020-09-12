@@ -7,8 +7,8 @@
     },
     {
       "BundleId": "com.extreme.simulator.demolition.derby.monster.bus.destruction.battle.arena.crash.stunts2020",
-      "ShowAdsFlag": false,
-      "ShowCustomNativeAdsFlag": false
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true
     },
     {
       "BundleId": "com.extreme.simulator.farming.simulation20.farmer.sim.modern.drone.heavy.tractor.farming.games2020",
