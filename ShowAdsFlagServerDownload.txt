@@ -22,9 +22,10 @@
       "ShowCustomNativeAdsFlag": true
     },
     {
-      "BundleId": "com.extreme.simulator.police.formula.car.crash.derby.demolisher.fearless.stunts.games20201",
+      "BundleId": "com.extreme.simulator.monster.truck.crash.derby.fearless.stunts2019",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.7"
     }       
   ]
 }
