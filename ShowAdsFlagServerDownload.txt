@@ -25,7 +25,7 @@
       "BundleId": "com.extreme.simulator.monster.truck.crash.derby.fearless.stunts2019",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.7"
+      "BundleVersionCode": "1.8"
     }       
   ]
 }
