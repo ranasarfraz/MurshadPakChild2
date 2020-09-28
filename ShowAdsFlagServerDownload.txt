@@ -3,7 +3,8 @@
     {
       "BundleId": "com.extreme.simulator.monster.truck.jam.derby.destruction.mad.truck.driving.monster.legends",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.3"
     },
     {
       "BundleId": "com.extreme.simulator.demolition.derby.monster.bus.destruction.battle.arena.crash.stunts2020",
