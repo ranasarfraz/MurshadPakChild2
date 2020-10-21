@@ -2,6 +2,6 @@
 {
     "FirstGameBundleID":"com.extreme.simulator.monster.truck.jam.derby.destruction.mad.truck.driving.monster.legends",
     "Gameurl1": "https://play.google.com/store/apps/details?id=com.extreme.simulator.monster.truck.jam.derby.destruction.mad.truck.driving.monster.legends",
-    "Gameurl2": "https://play.google.com/store/apps/details?id=com.extreme.simulator.flying.car.transform.shooting.car.flying.robot.battle"
+    "Gameurl2": "https://play.google.com/store/apps/details?id=com.extreme.simulator.farming.simulation20.farmer.sim.modern.drone.heavy.tractor.farming.games2020"
 }
 
