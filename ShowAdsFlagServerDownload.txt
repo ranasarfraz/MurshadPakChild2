@@ -15,7 +15,8 @@
     {
       "BundleId": "com.extreme.simulator.farming.simulation20.farmer.sim.modern.drone.heavy.tractor.farming.games2020",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.2"
     },
     {
       "BundleId": "com.extreme.simulator.police.formula.car.crash.derby.demolisher.fearless.stunts.games2020",
