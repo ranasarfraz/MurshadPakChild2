@@ -34,7 +34,7 @@
       "BundleId": "com.epicboltactiongames.team.death.match4v4.offline.pvp.team.battleground.antiterrorist.commando.shooting.games2020",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.0"
+      "BundleVersionCode": "1.1"
     } 
   ]
 }
