@@ -31,10 +31,10 @@
       "BundleVersionCode": "1.9"
     },
     {
-      "BundleId": "com.extreme.simulator.monster.truck.crash.derby.fearless.stunts201920",
+      "BundleId": "com.epicboltactiongames.team.death.match4v4.offline.pvp.team.battleground.antiterrorist.commando.shooting.games2020",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.8"
+      "BundleVersionCode": "1.1"
     }        
   ]
 }
