@@ -47,6 +47,12 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.0"
-    }    
+    },
+    {
+      "BundleId": "com.extremesimulator.megaramp.monstertruck.mountainclimb.stunts.impossible.tracks4x4.shootinggame2020",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.0"
+    }      
   ]
 }
