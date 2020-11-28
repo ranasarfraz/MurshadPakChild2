@@ -34,7 +34,7 @@
       "BundleId": "com.epicboltactiongames.team.death.match4v4.offline.pvp.team.battleground.antiterrorist.commando.shooting.games2020",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "BundleVersionCode": "1.2"
     },
     {
       "BundleId": "com.extreme.simulator.fury.monster.jeep.parking.truck.driving.stunts2019",
