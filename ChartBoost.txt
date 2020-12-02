@@ -2,6 +2,6 @@
 {
     "FirstGameBundleID":"com.epicboltactiongames.team.death.match4v4.offline.pvp.team.battleground.antiterrorist.commando.shooting.games2020",
     "Gameurl1": "https://play.google.com/store/apps/details?id=com.epicboltactiongames.team.death.match4v4.offline.pvp.team.battleground.antiterrorist.commando.shooting.games2020",
-    "Gameurl2": "https://play.google.com/store/apps/details?id=com.extreme.simulator.monster.truck.jam.derby.destruction.mad.truck.driving.monster.legends"
+    "Gameurl2": "https://play.google.com/store/apps/details?id=com.freefunsimualtor.imposible.megaramp.monstertruckstunts.carstunts.crazy.ramp.stunt3d.cargames2020"
 }
 
