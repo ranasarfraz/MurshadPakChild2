@@ -58,7 +58,7 @@
       "BundleId": "com.epicboltactiongames.tdm.antiterrorism.commando.secret.mission.coverstrikeshooter.commandomissiongame2021",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "BundleVersionCode": "1.2"
     },
     {
       "BundleId": "com.extremesimulator.atv.quad.bike4x4.derby.atvderby.derbydemolition.atv.demolition.derby2021",
