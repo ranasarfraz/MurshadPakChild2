@@ -64,13 +64,19 @@
       "BundleId": "com.extremesimulator.atv.quad.bike4x4.derby.atvderby.derbydemolition.atv.demolition.derby2021",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "BundleVersionCode": "1.0"
     },
     {
       "BundleId": "com.extreme.simulator.flying.car.transform.shooting.car.flying.robot.battle",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.3"
-    }          
+    },
+    {
+      "BundleId": "com.ultimate.counter.shooter.shadow.ninja.fighting.games",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.4"
+    }               
   ]
 }
