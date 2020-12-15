@@ -28,7 +28,7 @@
       "BundleId": "com.extreme.simulator.monster.truck.crash.derby.fearless.stunts2019",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.9"
+      "BundleVersionCode": "2.0"
     },
     {
       "BundleId": "com.epicboltactiongames.team.death.match4v4.offline.pvp.team.battleground.antiterrorist.commando.shooting.games2020",
@@ -77,6 +77,24 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.4"
-    }               
+    },
+    {
+      "BundleId": "com.extreme.simulator.city.tuk.tuk.rikshaw.d3d.chingchi.rikshaw.drive.simulation",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.7"
+    },
+    {
+      "BundleId": "com.extreme.simulator.flying.car.transform.shooting.car.flying.robot.battle",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.4"
+    },
+    {
+      "BundleId": "com.freefunsimulator.cityoiltanker.truckdrivinggames.oiltanker.offroadtruckdrivinggames2020",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.0"
+    }                        
   ]
 }
