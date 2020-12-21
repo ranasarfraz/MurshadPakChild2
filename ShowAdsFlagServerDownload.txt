@@ -70,31 +70,25 @@
       "BundleId": "com.extreme.simulator.flying.car.transform.shooting.car.flying.robot.battle",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.3"
+      "BundleVersionCode": "1.5"
     },
     {
       "BundleId": "com.ultimate.counter.shooter.shadow.ninja.fighting.games",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.4"
+      "BundleVersionCode": "1.5"
     },
     {
       "BundleId": "com.extreme.simulator.city.tuk.tuk.rikshaw.d3d.chingchi.rikshaw.drive.simulation",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.7"
-    },
-    {
-      "BundleId": "com.extreme.simulator.flying.car.transform.shooting.car.flying.robot.battle",
-      "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.4"
+      "BundleVersionCode": "1.8"
     },
     {
       "BundleId": "com.freefunsimulator.cityoiltanker.truckdrivinggames.oiltanker.offroadtruckdrivinggames2020",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.0"
+      "BundleVersionCode": "1.1"
     },
     {
       "BundleId": "com.freefunsimulator.monstertruck.demolitionderby.monster.truck.snowderbydemolition2020.truck.snowcrashderby2021",
