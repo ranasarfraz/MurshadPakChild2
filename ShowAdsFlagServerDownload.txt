@@ -106,13 +106,13 @@
       "BundleId": "com.extreme.simulator.boat.fishing.simulator.salmon.wild.fish.hunting",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.7"
+      "BundleVersionCode": "1.8"
     },
     {
       "BundleId": "com.extremesimulator.impossibletracks.mega.ramps.carstunts.stuntdriving.jet.car.racinggames",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "BundleVersionCode": "1.2"
     }                                 
   ]
 }
