@@ -125,6 +125,12 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.2"
-    }                                     
+    },
+    {
+      "BundleId": "com.ms.adspackagev57202021",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.2"
+    }                                      
   ]
 }
