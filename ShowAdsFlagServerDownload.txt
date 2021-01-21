@@ -52,7 +52,7 @@
       "BundleId": "com.extremesimulator.megaramp.monstertruck.mountainclimb.stunts.impossible.tracks4x4.shootinggame2020",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "BundleVersionCode": "1.2"
     },
     {
       "BundleId": "com.epicboltactiongames.tdm.antiterrorism.commando.secret.mission.coverstrikeshooter.commandomissiongame2021",
