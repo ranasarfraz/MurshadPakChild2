@@ -1,7 +1,7 @@
 
 {
-    "FirstGameBundleID":"com.freefunsimulator.monstertruck.demolitionderby.monster.truck.snowderbydemolition2020.truck.snowcrashderby2021",
-    "Gameurl1": "https://play.google.com/store/apps/details?id=com.freefunsimulator.monstertruck.demolitionderby.monster.truck.snowderbydemolition2020.truck.snowcrashderby2021",
-    "Gameurl2": "https://play.google.com/store/apps/details?id=com.freefunsimulator.topspeed.formula.car.derby.demolition.carcrash.stunts2021.games"
+    "FirstGameBundleID":"com.extremesimulator.monster.truck.jam.truck4x4derby.crashdestruction4x4derby.mad.truck.driving.monster.legends2021",
+    "Gameurl1": "https://play.google.com/store/apps/details?id=com.extremesimulator.monster.truck.jam.truck4x4derby.crashdestruction4x4derby.mad.truck.driving.monster.legends2021",
+    "Gameurl2": "https://play.google.com/store/apps/details?id=com.extreme.simulator.police.formula.car.crash.derby.demolisher.fearless.stunts.games2020"
 }
 
